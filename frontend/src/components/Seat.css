@@ -1,0 +1,21 @@
+
+  .loge {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: blue;
+  }
+  
+  .parkett {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+  }
+  
+  .occupied {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red; 
+}
